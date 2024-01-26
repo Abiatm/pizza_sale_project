@@ -10,13 +10,13 @@
 - [Recommendations](#recommendations)
 ### Project Overview
 This project seeks to provide meaningful insights from the sales performance from a pizza business for the year. During the analysis process trends were identified and data driven recommendations were provided so as to promote the future performance of the business and area of interest.
-![ATMDashboard](https://github.com/Abiatm/pizza_sale_project/assets/153201833/3c9c071f-d716-422d-9471-93e863e76b3e)
-![totalR](https://github.com/Abiatm/pizza_sale_project/assets/153201833/82e399fd-f25c-4e08-a92a-040470893264)
-![quantityS](https://github.com/Abiatm/pizza_sale_project/assets/153201833/5953740e-cce0-4b1d-95ee-5091ac7ab17c)
-![daybyorder](https://github.com/Abiatm/pizza_sale_project/assets/153201833/cceaae9a-a27a-43b7-86d7-ef06b478005f)
-![monthorder](https://github.com/Abiatm/pizza_sale_project/assets/153201833/38344be9-f6a0-413c-b074-b599d52ab548)
-![saleper](https://github.com/Abiatm/pizza_sale_project/assets/153201833/6b6d21b9-e469-4df2-aec4-cbb00afb5fed)
-![sizeper](https://github.com/Abiatm/pizza_sale_project/assets/153201833/a0e2e84e-4988-45ee-a3e1-541f7c222304)
+
+![ATMDashboard1](https://github.com/Abiatm/pizza_sale_project/assets/153201833/1f6cb211-b4db-489b-a42f-d37a10e18236)
+![saleper](https://github.com/Abiatm/pizza_sale_project/assets/153201833/b75ef32b-e722-46c7-a54a-27c73ba30163)
+![sizeper](https://github.com/Abiatm/pizza_sale_project/assets/153201833/542d373a-8d0e-47de-a83e-6e674d6835a9)
+
+
+
 
 
 ### Problem Statement
