@@ -15,10 +15,6 @@ This project seeks to provide meaningful insights from the sales performance fro
 ![saleper](https://github.com/Abiatm/pizza_sale_project/assets/153201833/b75ef32b-e722-46c7-a54a-27c73ba30163)
 ![sizeper](https://github.com/Abiatm/pizza_sale_project/assets/153201833/542d373a-8d0e-47de-a83e-6e674d6835a9)
 
-
-
-
-
 ### Problem Statement
 #### The problems that need to be addressed are:
 - Total revenue, order and amount sold.
